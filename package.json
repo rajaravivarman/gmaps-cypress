@@ -1,0 +1,17 @@
+{
+  "name": "gmaps-cypress",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rajaravivarman",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^8.5.0"
+  },
+  "devDependencies": {
+    "cypress-image-snapshot": "^4.0.1"
+  }
+}
