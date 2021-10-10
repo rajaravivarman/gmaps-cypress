@@ -3,3 +3,5 @@ Automated tests (Cypress) to test the following actions after navigating to [Goo
 1. Click and drag to pan the map in canvas
 2. Mouse click 'Marina Bay Sands Singapore' from the map to select it.
 3. The rivers, parks, and beaches are correctly drawn on the canvas.
+
+Uses [cypress-image-snapshot](https://www.npmjs.com/package/cypress-image-snapshot) for visual regression testing.
